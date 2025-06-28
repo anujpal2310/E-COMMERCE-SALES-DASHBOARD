@@ -58,4 +58,4 @@ To deliver an intuitive, interactive platform enabling stakeholders to quickly a
 
 ### 	Screenshots / Demos
 
-Show what the dashboard looks like. - ![Alt text]()
+Show what the dashboard looks like. - ![Alt text](https://github.com/anujpal2310/E-COMMERCE-SALES-DASHBOARD/blob/main/Anuj_E-commerce_sales.png)
