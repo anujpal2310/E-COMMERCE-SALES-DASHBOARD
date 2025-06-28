@@ -1,14 +1,14 @@
 # E-COMMERCE-SALES-DASHBOARD
 
-### Title : Anuj Store Insights: E‑Commerce Sales Dashboard.<br>
+### 1. Title : Anuj Store Insights: E‑Commerce Sales Dashboard.<br>
 
 An interactive Power BI dashboard designed to explore Anuj Store’s online sales performance—focusing on revenue distribution, customer behavior, product categories, payment trends, and regional dynamics.
 
-### Description / Purpose
+### 2. Description / Purpose
 
 The Anuj Store Insights Dashboard is a visually engaging Power BI report built to help managers and decision-makers monitor key e-commerce metrics such as sales, profit, order volume, and average order value. It enables rapid identification of trends, high-value customers, and areas for strategic improvement to elevate overall performance.
 
-### 	Tech Stack
+### 	3. Tech Stack
 List the key technologies used to build the dashboard.
 
 Example:
@@ -19,7 +19,7 @@ The dashboard was built using the following tools and technologies:<br>
 •	📝 Data Modeling – Relationships established among tables (resorts, snow, and data_dictionary) to enable cross-filtering and aggregation.<br>
 •	📁 File Format – .pbix for development and .png for dashboard previews.
 
-###	Data Source
+###	4. Data Source
 
 More info on where the data comes from and how it’s structured
 Example:
@@ -31,7 +31,7 @@ Payment Mode: Payment method for each order (COD, UPI, Debit Card, Credit Card, 
 Traffic/Marketing (optional): Sessions, conversion events, marketing channel if available.<br>
 All data is imported via CSV/SQL/API, cleansed in Power Query, and modeled with a Calendar (Date) table to support time-based analysis.<br>
 
-###  Features / Highlights
+###  5. Features / Highlights
 
 • Business Problem<br>
 Anuj Store lacked a centralized analytics tool to monitor sales trends, customer segments, state-level distribution, payment behavior, and product-level profitability—relying heavily on manual spreadsheets.<br>
@@ -56,6 +56,6 @@ To deliver an intuitive, interactive platform enabling stakeholders to quickly a
 • Product Mix Optimization: Emphasize high-profit sub-categories like Printers and Bookcases.<br>
 • Seasonal Strategy: Understand low-profit months (May, July) and prepare promotional efforts accordingly.<br>
 
-### 	Screenshots / Demos
+### 6.	Screenshots / Demos
 
 Show what the dashboard looks like. - ![Alt text](https://github.com/anujpal2310/E-COMMERCE-SALES-DASHBOARD/blob/main/Anuj_E-commerce_sales.png)
